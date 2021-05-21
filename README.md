@@ -4,6 +4,7 @@
 ### Requested Details
 Specify the Truffle version and OpenZeppelin version used in the project.
 
+```
 Truffle version:
 Truffle v5.3.6 (core: 5.3.6)
 Solidity - 0.5.16 (solc-js)
@@ -15,6 +16,7 @@ OpenZeppelin version: 2.3.0 (2019-05-27)
 ERC-721 Token Name: StarCoin
 ERC-721 Token Symbol: STA
 “Token Address” on the Rinkeby Network: 0x3B847060bCECCCB2140E167ff388a3daD3288f62
+```
 
 ### ToDo
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
